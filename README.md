@@ -1,6 +1,6 @@
 # News Impact Summit_EJC
 Workshop for the News Impact Summit 2023 Lisbon
-[![Alt text](News Impact Summit 2023)]([https://digitalocean.com](https://d23dnyvtmi6h4j.cloudfront.net/images/ejcLogo.png))
+![Alt Text](https://d23dnyvtmi6h4j.cloudfront.net/images/ejcLogo.png)
 
 ## Portais de dados abertos
 
@@ -8,7 +8,7 @@ Workshop for the News Impact Summit 2023 Lisbon
 
 - [dados.gov](https://dados.gov.pt/pt/)
   Portal de dados abertos do governo Português
-- [Central de Dados] (http://centraldedados.pt/)
+- [Central de Dados](http://centraldedados.pt/)
   Portal nacional de vários tipodes dados sobre Portugal
 - [Parlamento.pt](https://www.parlamento.pt/Cidadania/Paginas/DadosAbertos.aspx)
   Informação da Assembleia da República com informações sobre propostas, votações e presenças dos deputados nacionais.
