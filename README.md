@@ -1,5 +1,6 @@
 # News Impact Summit_EJC
 Workshop for the News Impact Summit 2023 Lisbon
+
 ![Alt Text](https://d23dnyvtmi6h4j.cloudfront.net/images/ejcLogo.png)
 
 ## Portais de dados abertos
